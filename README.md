@@ -25,17 +25,18 @@ Além disso, este projeto representa minha evolução como desenvolvedor, explor
 - Tipagem com TypeScript
 
 ```bash
-/assets/preview.png
-
 ## ⚙️ Como Executar o Projeto
 
 ```bash
 
 # Acesse a pasta do projeto
-cd portifolio
+cd portfolio
 
 # Instale as dependências
 npm install
 
 # Execute o projeto
 npm run dev
+
+# O projeto estará disponível em
+http://localhost:5173
