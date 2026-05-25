@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path fill="#1d2130" d="M12 11h36a7 7 0 0 1 7 7v36H19a7 7 0 0 1-7-7z"/>
+  <path fill="#94d8ff" d="M8 7h36a7 7 0 0 1 7 7v36H15a7 7 0 0 1-7-7z"/>
+  <path fill="none" stroke="#1d2130" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M8 7h36a7 7 0 0 1 7 7v36H15a7 7 0 0 1-7-7z"/>
+  <text x="27" y="40" fill="#1d2130" font-family="Arial Rounded MT Bold, Inter, Arial, sans-serif" font-size="30" font-weight="900" text-anchor="middle">G</text>
+  <path fill="none" stroke="#1d2130" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M43 24l6 5-6 5"/>
+</svg>
