@@ -3,15 +3,15 @@
 Bem-vindo ao meu portfólio!  
 Este projeto foi desenvolvido com foco em apresentar meus projetos, habilidades e experiências como desenvolvedor, utilizando tecnologias modernas do ecossistema front-end.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-- ⚛️ React
-- 🟦 TypeScript
-- ⚡ Vite
-- 🎨 CSS / Tailwind (adicione se estiver usando)
-- 📦 ESLint
+- React
+- TypeScript
+- Vite
+- CSS / Tailwind
+- ESLint
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O objetivo deste portfólio é reunir meus principais projetos, experiências e competências em um único lugar, proporcionando uma navegação moderna, responsiva e intuitiva.
 
@@ -25,9 +25,7 @@ Além disso, este projeto representa minha evolução como desenvolvedor, explor
 - Tipagem com TypeScript
 
 ```bash
-## ⚙️ Como Executar o Projeto
-
-```bash
+## Como Executar o Projeto
 
 # Acesse a pasta do projeto
 cd portfolio
